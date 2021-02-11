@@ -1,7 +1,7 @@
 body {
   font-size: 2vw;
   font-family: "Peddana", serif;
-  color: black;
+  color: #515A5A;
   padding: 15px;
   height: 95px;
   position: relative;
@@ -36,7 +36,7 @@ a:link {
   
 /* visited link */
 a:visited {
-  color: green;
+  color: black;
 }
 
 /* mouse over link */
