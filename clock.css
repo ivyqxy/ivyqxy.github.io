@@ -122,7 +122,7 @@ a {
 
 /* unvisited link */
 a:link {
-    color:black;
+    color:red;
   }
   
 /* visited link */
@@ -132,7 +132,7 @@ color: black;
 
 /* mouse over link */
 a:hover {
-color:coral;
+color:green;
 }
 
 /* selected link */
